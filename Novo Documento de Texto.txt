@@ -1,2 +1,4 @@
-Novo arquivo, vers�o 1
+﻿Novo arquivo, vers�o 1
 arquivo editado pelo github.
+
+Versão 2
